@@ -5,7 +5,7 @@
 
 #Set threshold variable (in GB)
 
-$Space_Threshold = 30             #Minimum GB on drive before alert (ie: if drive has less than 30GB on the drive is in a warning zone)            
+$Space_Threshold = 30             # Minimum GB on drive before alert (ie: if drive has less than 30GB on the drive is in a warning zone)            
 
 #Gather all logical drivers
 
