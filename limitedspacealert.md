@@ -1,4 +1,4 @@
-## Limited Space 
+## Powershell - Limited Space Checker v.1
 ### When run will notify the user if any of the disks are running low on space.  Below 30GB.
 
 ```
