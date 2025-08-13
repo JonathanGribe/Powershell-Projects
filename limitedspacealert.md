@@ -22,8 +22,6 @@ if($Free_GB -lt $Space_Threshold) {
 Write-Host $($totalDrives.DeviceID) is low on space. $Free_GB GB remaining. -ForegroundColor Red
 } else { Write-Host $($totalDrives.DeviceID) is fine on space. $Free_GB free.
 }
-
-
 }
 
 Read-Host -Prompt "Press Enter to exit"
